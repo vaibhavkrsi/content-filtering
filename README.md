@@ -1,4 +1,4 @@
-# content-filtering
+# Content-filtering
 Music recommendation system using content filtering method and Language used is Python.
  
 ```python
