@@ -1,7 +1,8 @@
 # Content-filtering
 Music recommendation system using content filtering method and Language used is Python.
 
- Libraries used in this project
+Please install the following libraries.
+ 
  
 ```python
 pip install numpy 
